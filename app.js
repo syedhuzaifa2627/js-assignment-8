@@ -79,7 +79,7 @@
 // if (userGuess === secretNumber) {
 //   alert(" Congratulations! You guessed the secret number: " + secretNumber)
 // } 
-//else {
+// else {
 //   alert(" Sorry, You guess the wrong number.")
 // }
 
